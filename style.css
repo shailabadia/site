@@ -9,7 +9,7 @@ h1, p, img, table, h2, figcaption {
 }
 figcaption{
     font-size: 200%;
-    margin-left: 45%;
+    margin-left: 30%;
 }
 p{
     font-size: 1.5em
@@ -97,7 +97,7 @@ header{
 }
 ul {
   list-style-type: none;
-  margin-left: 30%;
+  margin-left: 25%;
   margin-right: 20%;
   padding: 0;
   overflow: hidden;
