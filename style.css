@@ -1,1 +1,196 @@
+/*POCONG, CARIEL A.*/
+h1, p, img, table{
+    font-family: monospace;
+    background-color: antiquewhite;
+}
+h1, p, img{
+    width: 50%; height: 50%;
+}
+h1, p, img{
+    margin: 0%;
+    margin-left: 25%;
+}
+h1{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    font-size: 2em;
+    margin-left: 20%;
+}
+p{
+    font-size: 1.5em;
+}
+img{border: none;
+   
+}
+
+h1{
+    background-color: transparent;
+    color: antiquewhite;
+}
+p{
+    background-color: transparent;
+    color: antiquewhite;
+}
+body{
+    background-image: url(../site/images/omayyyy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+figure {
+  border: none;
+  padding: none;
+  margin: auto;
+}
+
+figcaption {
+  background-color: transparent;
+  color: antiquewhite;
+  font-style: italic;
+  padding: 1px;
+  text-align: center;
+  font-size: 200%;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul {
+    list-style-type: none;
+    margin-bottom: 5%;
+    padding: 0;
+    width: 150px;
+    background-color:transparent;
+    position: fixed;
+    overflow: auto;
+    
+}
+
+
+a {
+    display: block;
+    color: antiquewhite;
+    font-family: serif;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+}
+a:hover {
+    background-color: blanchedalmond;
+    color: black;
+}
+.active {
+    background-color: antiquewhite;
+    color: bisque;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 25%;
+    margin-right: 0;
+    font-weight: bold;
+    background-color:transparent;
+    color: antiquewhite;
+}
+
+h3 { 
+    display: block;
+    font-size: 1.17em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 25%;
+    margin-right: 0;
+    font-weight: bold;
+    background-color: transparent;
+    color:antiquewhite;
+}
+.div-1{
+  margin-left: 25%;
+  background-color: bisque; 
+  height: 50%;
+  width: 50%;
+}
+.div-2{
+  margin-left: 25%;
+  background-color: bisque; 
+  height: 50%;
+  width: 50%;
+}
+.div-3{
+  margin-left: 25%;
+  background-color: bisque; 
+  height: 50%;
+  width: 50%;
+}
+.div-4{
+  margin-left: 25%;
+  background-color: bisque; 
+  height: 50%;
+  width: 50%;
+}
+.div-5{
+  margin-left: 25%;
+  background-color: bisque; 
+  height: 50%;
+  width: 50%;
+}
+.div-6{
+    margin-top: 5%;
+    margin-left: 15%;
+    width: 37%;
+}
+.labelClass {
+  margin-left: 25%; 
+  height: 50%;
+  width: 50%;
+}
+textarea {
+    font-size: 1rem;
+    line-height: 1.5em;
+    font-family: cursive;
+    margin-left: 25%;
+    background-color: transparent;
+    color: antiquewhite;
+}
+main {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+ol.c {
+  list-style-type: circle;
+}
+
+header {
+    margin-left: 20%;
+    margin-top: 2%;
+    margin-bottom: 0;
+    height: 10%;
+    width: 10%;
+}
+table {
+    font-size: 1.5em;
+    background-color:transparent;
+    color: antiquewhite;
+}
+label{
+    background-color: transparent;
+    color:antiquewhite;
+}
+body{
+    background-image: url(images/omayyyy.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
+
+
 
