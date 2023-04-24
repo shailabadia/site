@@ -16,6 +16,7 @@ p{
 }
 img{
     border: none;
+    margin-top: 3.5%;
 }
 figure{
     border: 2px #000000 solid;
@@ -109,15 +110,13 @@ li {
   float: left;
 }
 
-li a {
+ .sticky li a {
   display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 1.5em;
-  background-color:#053047;
-  
 }
 h4{
     margin-left: 25%;
